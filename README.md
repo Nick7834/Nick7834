@@ -1,3 +1,5 @@
+### Hi!👋
+
 ### Hello! My name is Nikita. I am a beginner frontend developer.
 
 ### My Skills: 
