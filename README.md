@@ -1,6 +1,6 @@
 ### <h1>Hi!👋</h1>
 
-### <h2>Hello! My name is Nikita. I am a beginner frontend developer.</h2>
+### <h2>My name is Nikita. I am a beginner frontend developer.</h2>
 
 ### My Skills: 
 
