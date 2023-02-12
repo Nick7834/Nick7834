@@ -8,8 +8,6 @@
 ![Flutter](https://img.shields.io/badge/-CSS-3862e0?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-SCSS/SASS-d466b5?style=for-the-badge&logo=SASS&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-JavaScript-1c1d1f?style=for-the-badge&logo=JavaScript)
-
-<br>
 <br>
 
 ![Flutter](https://img.shields.io/badge/-WordPress-1c1d1f?style=for-the-badge&logo=WordPress)
