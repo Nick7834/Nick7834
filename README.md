@@ -2,4 +2,4 @@
 
 Skill: 
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+![Fliter]https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
