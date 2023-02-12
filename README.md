@@ -8,5 +8,5 @@
 ![Flutter](https://img.shields.io/badge/-JavaScript-201f21?style=for-the-badge&logo=JavaScript)
 <br>
 ![Flutter](https://img.shields.io/badge/-WordPress-201f21?style=for-the-badge&logo=WordPress)
-![Flutter](https://img.shields.io/badge/-Figma-c42d4b?style=for-the-badge&logo=Figma&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Figma-f23057?style=for-the-badge&logo=Figma&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Photoshop-201f21?style=for-the-badge&logo=AdobePhotoshop)
