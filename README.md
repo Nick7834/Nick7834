@@ -3,7 +3,7 @@
 ### My Skill: 
 
 ![Flutter](https://img.shields.io/badge/-HTML-201f21?style=for-the-badge&logo=HTML5)
-![Flutter](https://img.shields.io/badge/-CSS-00BFFF?style=for-the-badge&logo=CSS3&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-CSS-5358ed?style=for-the-badge&logo=CSS3&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-SCSS/SASS-d466b5?style=for-the-badge&logo=SASS&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-JavaScript-201f21?style=for-the-badge&logo=JavaScript)
 <br>
