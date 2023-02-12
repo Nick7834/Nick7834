@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello! My name is Nikita. I am a beginner frontend developer.
 
-### Skill: 
+### My Skill: 
 
 ![Flutter](https://img.shields.io/badge/-HTML-201f21?style=for-the-badge&logo=HTML5)
 ![Flutter](https://img.shields.io/badge/-CSS-201f21?style=for-the-badge&logo=CSS3&logoColor=00BFFF)
