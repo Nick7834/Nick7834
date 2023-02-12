@@ -4,7 +4,7 @@
 
 ![Flutter](https://img.shields.io/badge/-HTML-201f21?style=for-the-badge&logo=HTML5)
 ![Flutter](https://img.shields.io/badge/-CSS-201f21?style=for-the-badge&logo=CSS3&logoColor=00BFFF)
-![Flutter](https://img.shields.io/badge/-SCSS/SASS-ba579e?style=for-the-badge&logo=SASSlogoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-SCSS/SASS-ba579e?style=for-the-badge&logo=SASS&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-JavaScript-201f21?style=for-the-badge&logo=JavaScript)
 <br>
 ![Flutter](https://img.shields.io/badge/-WordPress-201f21?style=for-the-badge&logo=WordPress)
