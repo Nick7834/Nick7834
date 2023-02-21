@@ -9,8 +9,8 @@
 ![Flutter](https://img.shields.io/badge/-SASS-d466b5?style=for-the-badge&logo=SASS&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-JavaScript-1c1d1f?style=for-the-badge&logo=JavaScript)
 <br>
-![Flutter](https://img.shields.io/badge/-WebPack-5698c4?style=for-the-badge&logo=WebPack&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-WordPress-1c1d1f?style=for-the-badge&logo=WordPress)
+![Flutter](https://img.shields.io/badge/-WebPack-5698c4?style=for-the-badge&logo=WebPack&logoColor=ffffff)
 
 ### Tools:
 ![Flutter](https://img.shields.io/badge/-Figma-f23057?style=for-the-badge&logo=Figma&logoColor=ffffff)
