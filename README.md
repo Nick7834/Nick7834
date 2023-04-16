@@ -12,6 +12,7 @@
 ![Flutter](https://img.shields.io/badge/-WordPress-1c1d1f?style=for-the-badge&logo=WordPress)
 ![Flutter](https://img.shields.io/badge/-WebPack-5698c4?style=for-the-badge&logo=WebPack&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-React-1c1d1f?style=for-the-badge&logo=React)
+![Flutter](https://img.shields.io/badge/-Vite-ffffff?style=for-the-badge&logo=Vite&logoColor=ffd636)
 
 #
 
