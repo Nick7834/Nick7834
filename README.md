@@ -14,6 +14,7 @@
 ![Flutter](https://img.shields.io/badge/-React-1c1d1f?style=for-the-badge&logo=React)
 ![Flutter](https://img.shields.io/badge/-Redux-1c1d1f?style=for-the-badge&logo=Redux)
 ![Flutter](https://img.shields.io/badge/-Vite-ffffff?style=for-the-badge&logo=Vite&logoColor=ffd636)
+![Flutter](https://img.shields.io/badge/-Git-F64A46?style=for-the-badge&logo=Git&logoColor=ffffff)
 
 #
 
