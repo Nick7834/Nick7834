@@ -22,3 +22,7 @@
 ### Tools:
 ![Flutter](https://img.shields.io/badge/-Figma-f23057?style=for-the-badge&logo=Figma&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-Photoshop-1c1d1f?style=for-the-badge&logo=AdobePhotoshop)
+
+#
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nick7834&theme=radical)
