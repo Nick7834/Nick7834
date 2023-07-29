@@ -9,7 +9,7 @@
 ![Flutter](https://img.shields.io/badge/-SASS-d466b5?style=for-the-badge&logo=SASS&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-JavaScript-1c1d1f?style=for-the-badge&logo=JavaScript)
 ![Flutter](https://img.shields.io/badge/-WordPress-1c1d1f?style=for-the-badge&logo=WordPress)
-![Flutter](https://img.shields.io/badge/-axios-5698c4?style=for-the-badge&logo=axios&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-axios-70BFFF?style=for-the-badge&logo=axios&logoColor=ffffff)
 <br>
 ![Flutter](https://img.shields.io/badge/-tailwindcss-1c1d1f?style=for-the-badge&logo=tailwindcss)
 ![Flutter](https://img.shields.io/badge/-WebPack-5698c4?style=for-the-badge&logo=WebPack&logoColor=ffffff)
