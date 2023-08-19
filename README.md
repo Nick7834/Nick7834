@@ -17,6 +17,9 @@
 ![Flutter](https://img.shields.io/badge/-Redux-1c1d1f?style=for-the-badge&logo=Redux)
 ![Flutter](https://img.shields.io/badge/-Vite-ffffff?style=for-the-badge&logo=Vite&logoColor=ffd636)
 ![Flutter](https://img.shields.io/badge/-Git-F64A46?style=for-the-badge&logo=Git&logoColor=ffffff)
+<br>
+![Flutter](https://img.shields.io/badge/-TypeScript-1F75FE?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-gulp-F3433F?style=for-the-badge&logo=gulp&logoColor=ffffff)
 
 #
 
