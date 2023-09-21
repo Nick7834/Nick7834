@@ -1,6 +1,6 @@
-### <h1>Hi!👋</h1>
+### <h1 color="white">Hi!👋</h1>
 
-### <h2>My name is Nikita. I am a frontend developer.</h2>
+### <h2 color="white">My name is Nikita. I am a frontend developer.</h2>
 
 ### Technologies: 
 
