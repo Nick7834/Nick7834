@@ -22,6 +22,7 @@
 ![Flutter](https://img.shields.io/badge/-TypeScript-1F75FE?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-gulp-F3433F?style=for-the-badge&logo=gulp&logoColor=ffffff)
 ![Flutter](https://img.shields.io/badge/-chart.js-E6608A?style=for-the-badge&logo=chart.js&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-ReactQuery-FF1852?style=for-the-badge&logo=ReactQuery&logoColor=ffffff)
 
 
 #
