@@ -26,7 +26,7 @@
 <br>
 ![Flutter](https://img.shields.io/badge/-reactHookForm-FF1142?style=for-the-badge&logo=reactHookForm&logoColor=000000)
 ![Flutter](https://img.shields.io/badge/-MaterialUI-3E84CA?style=for-the-badge&logo=mui&logoColor=ffffff)
-
+![Flutter](https://img.shields.io/badge/-prisma-ffffff?style=for-the-badge&logo=prisma&logoColor=000000)
 #
 
 ### Tools:
