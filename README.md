@@ -9,7 +9,6 @@
 ![SASS](https://img.shields.io/badge/-SASS-d466b5?style=for-the-badge&logo=SASS&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1c1d1f?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-1c1d1f?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-1c1d1f?style=for-the-badge&logo=Redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1F75FE?style=for-the-badge&logo=TypeScript&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&logo=Next.js&logoColor=000000)
 
@@ -33,6 +32,7 @@
 ![React Query](https://img.shields.io/badge/-ReactQuery-FF1852?style=for-the-badge&logo=ReactQuery&logoColor=ffffff)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-E6608A?style=for-the-badge&logo=chart.js&logoColor=ffffff)
 ![Axios](https://img.shields.io/badge/-axios-70BFFF?style=for-the-badge&logo=axios&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/-Redux-1c1d1f?style=for-the-badge&logo=Redux)
 
 ### 🎨 Styling:
 
